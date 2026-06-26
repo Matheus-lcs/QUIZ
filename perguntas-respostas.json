@@ -1,0 +1,80 @@
+{
+  "tema": "Lógica de Programação - Revisão",
+  "perguntas": [
+    {
+      "pergunta": "O que é um algoritmo?",
+      "alternativas": [
+        "Um tipo de variável",
+        "Uma sequência finita de passos para resolver um problema",
+        "Um erro de sintaxe",
+        "Um tipo de laço de repetição"
+      ],
+      "respostaCorreta": 1
+    },
+    {
+      "pergunta": "Qual estrutura é usada para repetir um bloco de código várias vezes?",
+      "alternativas": ["Condicional", "Função", "Laço de repetição", "Variável"],
+      "respostaCorreta": 2
+    },
+    {
+      "pergunta": "O que faz uma estrutura condicional (if/else)?",
+      "alternativas": [
+        "Repete um bloco de código",
+        "Armazena um valor na memória",
+        "Toma decisões com base em uma condição",
+        "Define o nome de uma função"
+      ],
+      "respostaCorreta": 2
+    },
+    {
+      "pergunta": "O que é uma variável?",
+      "alternativas": [
+        "Um espaço na memória para guardar um valor que pode mudar",
+        "Um valor que nunca muda",
+        "Um tipo de função",
+        "Um comando de repetição"
+      ],
+      "respostaCorreta": 0
+    },
+    {
+      "pergunta": "Qual é a principal vantagem de usar funções no código?",
+      "alternativas": [
+        "Deixar o código mais lento",
+        "Reaproveitar lógica e organizar o código",
+        "Aumentar o número de variáveis globais",
+        "Evitar o uso de laços"
+      ],
+      "respostaCorreta": 1
+    },
+    {
+      "pergunta": "O que um array (vetor) armazena?",
+      "alternativas": [
+        "Apenas um valor",
+        "Uma coleção de valores organizados em sequência",
+        "Apenas funções",
+        "Apenas texto"
+      ],
+      "respostaCorreta": 1
+    },
+    {
+      "pergunta": "O que significa 'depurar' (debug) um programa?",
+      "alternativas": [
+        "Apagar o código inteiro",
+        "Encontrar e corrigir erros no código",
+        "Traduzir o código para outra linguagem",
+        "Compactar o código"
+      ],
+      "respostaCorreta": 1
+    },
+    {
+      "pergunta": "Em lógica de programação, o que é uma condição booleana?",
+      "alternativas": [
+        "Um número decimal",
+        "Um texto qualquer",
+        "Uma expressão que resulta em verdadeiro ou falso",
+        "Um tipo de laço"
+      ],
+      "respostaCorreta": 2
+    }
+  ]
+}
